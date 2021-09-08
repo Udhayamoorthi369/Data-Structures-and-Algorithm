@@ -50,7 +50,7 @@ Creates physically a new node. It is not used directly into main block, but only
 **Parameter:**
 - `int x`: value to insert in the node
 
-![newNode](https://github.com/Leyxargon/c-linked-list/blob/master/figures/newNode.png "newNode()")
+![newNode](https://github.com/Udhayamoorthi369/Data-Structures-and-Algorithm/blob/main/figures/newNode.png "newNode()")
 
 ### Pre-Insertion
 `Node *preInsert(Node *top, int x)`
@@ -61,7 +61,7 @@ Inserts a new item at the top of the list. If the list is not empty then the new
 - `Node *top`: pointer to the first element of the list
 - `int x`: value to insert in the node
 
-![preInsert](https://github.com/Leyxargon/c-linked-list/blob/master/figures/preInsert.png "preInsert()")
+![preInsert](https://github.com/Udhayamoorthi369/Data-Structures-and-Algorithm/blob/main/figures/preInsert.png "preInsert()")
 
 ### Post-Insertion
 `Node *postInsert(Node *top, int x)`
@@ -72,7 +72,7 @@ Inserts a new item at the end of the list. If the list is not empty then the new
 - `Node *top`: pointer to the first element of the list
 - `int x`: value to insert in the node
 
-![postInsert](https://github.com/Leyxargon/c-linked-list/blob/master/figures/postInsert.png "postInsert()")
+![postInsert](https://github.com/Udhayamoorthi369/Data-Structures-and-Algorithm/blob/main/figures/postInsert.png "postInsert()")
 
 ### Sorted insertion
 `Node *orderInsert(Node *top, int x)`
@@ -84,7 +84,7 @@ This insertion function cannot be combined with Pre and Post insertions, the res
 - `Node *top`: pointer to the first element of the list
 - `int x`: value to insert in the node
 
-![orderInsert](https://github.com/Leyxargon/c-linked-list/blob/master/figures/orderInsert.png "orderInsert()")
+![orderInsert](https://github.com/Udhayamoorthi369/Data-Structures-and-Algorithm/blob/main/figures/orderInsert.png "orderInsert()")
 
 ## Managing operations
 
@@ -135,7 +135,7 @@ This function applies the linear search to remove the element that contains the 
 - `Node *top`: pointer to the first element of the list
 - `int k`: value to delete in the list
 
-![deleteNode](https://github.com/Leyxargon/c-linked-list/blob/master/figures/deleteNode.png "deleteNode()")
+![deleteNode](https://github.com/Udhayamoorthi369/Data-Structures-and-Algorithm/blob/main/figures/deleteNode.png "deleteNode()")
 
 ### Erasing the list
 `Node *deleteList(Node *top)`
@@ -153,7 +153,7 @@ Sort a non-empty list. This algorithm works with pointers, so there is not the v
 **Parameter:**
 - `Node **top`: address of the pointer to the first element of the list
 
-![MergeSort](https://github.com/Leyxargon/c-linked-list/blob/master/figures/MergeSort.png "MergeSort()")
+![MergeSort](https://github.com/Udhayamoorthi369/Data-Structures-and-Algorithm/blob/main/figures/MergeSort.png "MergeSort()")
 
 ## Example of usage
 ```c
