@@ -1,4 +1,28 @@
 # Data-Structures-and-Algorithm
+<h2> Contents </h2>
+
+<table style = "width : 80%" border = "1px solid black"> 
+<tr>
+<th>Folder</th>
+<th>Description</th>
+<th>Link</th>
+</tr>
+
+
+<tr>
+<td> Linked List </td>
+<td> A file is an abstract data type. For defining a file properly, we need to consider the operations that can be performed on files. The operating system can provide system calls to create, write, read, reposition, delete, and truncate files.
+</td>
+<td><a href="https://github.com/Udhayamoorthi369/Data-Structures-and-Algorithm/blob/main/list.c"> code </a></td>
+</tr>
+
+<tr>
+<td> Linked List </td>
+<td> A file is an abstract data type. For defining a file properly, we need to consider the operations that can be performed on files. The operating system can provide system calls to create, write, read, reposition, delete, and truncate files.
+</td>
+<td><a href="https://github.com/Udhayamoorthi369/Data-Structures-and-Algorithm/blob/main/DLL/EX.c"> code </a></td>
+</tr>
+
 
 # C Linked List library
 A simple library written in C for managing linked lists.
