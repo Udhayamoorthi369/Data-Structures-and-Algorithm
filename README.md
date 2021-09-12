@@ -1,6 +1,6 @@
 # Data-Structures-and-Algorithm
-<h2> Contents </h2>
 
+<h2> Contents </h2>
 <table style = "width : 80%" border = "1px solid black"> 
 <tr>
 <th>Folder</th>
