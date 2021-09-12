@@ -1,3 +1,6 @@
+# Data-Structures-and-Algorithm
+
+
 <h2> Contents </h2>
 <table style = "width : 80%" border = "1px solid black"> 
 <tr>
@@ -20,7 +23,6 @@
 </td>
 <td><a href="https://github.com/Udhayamoorthi369/Data-Structures-and-Algorithm/blob/main/DLL/EX.c"> code </a></td>
 </tr
-#Data-Structures-and-Algorithm
 
 
 # C Linked List library
