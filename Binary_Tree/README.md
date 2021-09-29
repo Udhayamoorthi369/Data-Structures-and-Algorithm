@@ -20,8 +20,8 @@ In short binary tree is a tree data structure in which each node has at most two
 <p align="center">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Sorted_binary_tree_preorder.svg/220px-Sorted_binary_tree_preorder.svg.png"><br>
     Pre-order: F, B, A, D, C, E, G, I, H
-</p>   
-
+</p>  
+          
 ### In-order
 1. Check if the current node is empty or null.
 2. Traverse the left subtree by recursively calling the in-order function.
