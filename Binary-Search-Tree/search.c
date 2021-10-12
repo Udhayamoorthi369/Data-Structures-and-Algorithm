@@ -1,4 +1,5 @@
 #include"tree.h"
+
 TREE *search(TREE *ptr,int n)
 {
  if(ptr==0)
