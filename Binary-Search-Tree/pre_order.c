@@ -1,4 +1,5 @@
 #include"tree.h"
+
 void pre_order(TREE *ptr)
 {
   if(ptr){
