@@ -9,6 +9,7 @@ int main(void)
           system("clear");
           printf("\t\t\tBinary Search Tree\n\n1. Create Tree\n2. Search Data\n3. Print Tree\n4. Delete Node\n\nEnter Option  :");
           scanf(" %c",&option);
+		
 	  switch(option)
           {
            case '1':do
