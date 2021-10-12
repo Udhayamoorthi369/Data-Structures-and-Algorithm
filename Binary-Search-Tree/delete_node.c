@@ -64,6 +64,5 @@ void delete_node(TREE **ptr,int n)
 		free(q);q=NULL;  return;
 	} 
 
-
 }
 
