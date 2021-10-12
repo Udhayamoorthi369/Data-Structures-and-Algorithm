@@ -15,7 +15,7 @@ void add_tree(TREE **ptr , int n)
 		add_tree(&(*ptr)->right,n);
 }*/
 
-/*   Without Recursion
+/*  Without Recursion
 
 #include"tree.h"
 void add_tree(TREE **ptr , int n)
